@@ -25,6 +25,7 @@ layout: tool
 [可视化中文在线调试正则](https://regex-vis.com/?l=1)
 [i Hate Regex具备大量可供使用的正则](https://ihateregex.io/)
 [Regex Learn - 逐步从零基础到高阶](https://regexlearn.com/zh-cn)
+[在线正则表达式测试器和可视化工具](https://pythonium.net/regex)
 [文本对比工具](https://tool.lu/diff)
 [npm趋势图](https://www.npmtrends.com/)
 [单元测试覆盖率集成](https://about.codecov.io/)
